@@ -1,0 +1,36 @@
+.playRegion {
+	background-color: lightgrey;
+	width: 1200px;
+	height: 800px;
+	margin: 0 auto;
+
+}
+
+.stacksBox {
+	height: 500px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.stackRow {
+	background-color: tan;
+	padding: 10px;
+	height: 50%;
+	justify-content: space-around;
+}
+
+.card {
+	width: 80px;
+	height: 120px;
+	background-color: lightgrey;
+	margin: 20px;
+	float: left;
+	border-style: solid;
+	border-radius: 4px;
+	border-right-color: darkgrey;
+	border-bottom-color: darkgrey;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 0px;
+	border-top-width: 0px;
+}
